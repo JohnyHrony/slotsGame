@@ -1,0 +1,22 @@
+#gameField {
+    background: url("../img/BG.png");
+}
+
+.gameContainer {
+    width:960px;
+    position: relative;
+}
+
+#monitor {
+    width: 80px;
+    padding: 3px 15px;
+    background-color: white;
+    position: absolute;
+    top: 20px;
+    right:20px;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    text-align: center;
+    font-size: 28px;
+    font-weight: 600;
+}
