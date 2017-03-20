@@ -120,3 +120,4 @@ gameField.addEventListener("click", function(event){
     }
 },false);
 
+console.log('git test');
